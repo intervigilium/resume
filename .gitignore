@@ -1,0 +1,5 @@
+samples/*
+*.aux
+*.log
+*.dvi
+*.pdf
