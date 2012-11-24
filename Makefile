@@ -14,4 +14,4 @@ pdf: dvi
 
 
 clean:
-	rm *.aux *.dvi *.log *.pdf
+	rm -f *.aux *.dvi *.log *.pdf
